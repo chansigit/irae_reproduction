@@ -1,0 +1,7 @@
+"","Compare:1","Compare2","P-value"
+"1","WT [CTLA-4]","C3KO [CTLA-4]","0.001"
+"2","WT [CTLA-4]","C3KO [IgG]","0.005"
+"3","WT [CTLA-4]","WT [IgG]","0.887"
+"4","C3KO [CTLA-4]","C3KO [IgG]","0.004"
+"5","C3KO [CTLA-4]","WT [IgG]","0.001"
+"6","C3KO [IgG]","WT [IgG]","0.001"

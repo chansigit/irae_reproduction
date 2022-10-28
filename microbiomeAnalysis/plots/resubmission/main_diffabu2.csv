@@ -1,0 +1,10 @@
+baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,Kingdom,Phylum,Class,Order,Family,Genus,unique,color
+144.93891498421334,1.7060991958146805,0.9258040646827053,3.2185644848538573,0.0728074534304555,0.38493810472472484,Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobiaceae_unknown,Atopobiaceae_unknown,Up
+162.4530172315263,-10.947778148022888,2.456108637107436,10.30680627277718,0.0013254045983374426,0.029158901163423737,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae.RC9.gut.group,Rikenellaceae.RC9.gut.group,Down
+14.183182742967867,-7.431952005244898,2.7334721751315967,5.310641678532349,0.021195548222103962,0.1865208243545149,Bacteria,Cyanobacteria,Vampirivibrionia,Gastranaerophilales,Gastranaerophilales_unknown,Gastranaerophilales_unknown,Gastranaerophilales_unknown,Down
+4.253528330330904,5.371680619034748,2.8475309746418773,3.309486448574731,0.06888101470800928,0.38493810472472484,Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,Turicibacter,Up
+14.140847776444057,4.437383423786548,2.0416356656669192,3.6717493202761915,0.055342071041754336,0.38493810472472484,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium].xylanophilum.group,[Eubacterium].xylanophilum.group,Up
+6.148359754361531,5.902392807699191,1.8025656163364225,9.207848781346797,0.0024097970051896894,0.03534368940944878,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,ASF356,ASF356,Up
+259.4212792788302,2.5926378074400667,1.3913128800846832,3.090774162549536,0.07873733960278462,0.38493810472472484,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unknown,Lachnospiraceae_unknown,Up
+70.053706152592,9.411799716692215,1.7873371137289593,16.996405890080126,3.745064348781062e-5,0.0016478283134636672,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae.NK4A136.group,Lachnospiraceae.NK4A136.group,Up
+430.26358572820016,26.5384614958185,2.9866811752834592,6.81925040238071,0.009018041200322742,0.09919845320355017,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Akkermansia,Up

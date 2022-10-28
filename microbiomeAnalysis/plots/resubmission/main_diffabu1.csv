@@ -1,0 +1,7 @@
+baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,Kingdom,Phylum,Class,Order,Family,unique,color
+4161.155390426517,-2.639252620970506,1.0510001769860207,5.583860012573439,0.01812672763368465,0.19285798562528378,Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacteriaceae,Down
+123.76516042367652,1.4291909734215333,0.7141291135726279,3.8578250797375233,0.0495144742408337,0.21456272171027937,Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobiaceae,Up
+52.377980995320414,2.656337897222983,1.155225377865254,4.746948601421252,0.029350295672337188,0.19285798562528378,Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthellaceae,Up
+138.25981383662744,-6.601430682342477,2.577286025837989,4.06148736882443,0.0438718407685115,0.21456272171027937,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae,Down
+10.917071221183809,-7.250126557551091,2.8567586968133174,4.728284810173456,0.029670459326966735,0.19285798562528378,Bacteria,Cyanobacteria,Vampirivibrionia,Gastranaerophilales,Gastranaerophilales_unknown,Gastranaerophilales_unknown,Down
+383.29854853711225,26.378965325190954,2.9866795409994182,6.569938602989566,0.010371552870888017,0.19285798562528378,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansiaceae,Up
